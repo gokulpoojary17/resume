@@ -1,0 +1,44 @@
+.container {
+    margin-top: 20px;
+    background-color: rgb(231, 237, 248);
+    border: 1px rgb(137, 213, 248) solid;
+    border-radius: 10px;
+    box-shadow: 20px 30px 10px rgba(86, 55, 211, 0.2);
+
+  }
+  
+  .resume-header {
+    text-align: center;
+  }
+  
+  .resume-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
+  .resume-summary,
+  .resume-qualifications,
+  .resume-experiences {
+    margin-top: 20px;
+  }
+  
+  .table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    border:2px solid #1c0303;
+    padding: 8px;
+  }
+  
+  .table th {
+    background-color: #f2f2f2;
+  }
+  
+  h2{
+    text-align: center;
+  }

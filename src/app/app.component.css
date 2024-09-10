@@ -1,0 +1,17 @@
+.navbar-nav {
+    margin-left: 80%;
+}
+.nav-link{
+    color: aliceblue;
+}
+
+.navbar-brand{
+    padding-left: 42%;
+    font-size: 30px;
+    color: blanchedalmond;
+}
+
+.navbar{
+    background-color: rgb(2, 67, 97);
+    height: 50px;
+}

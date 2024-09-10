@@ -1,0 +1,262 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "userId": "user1",
+      "password": "1resu"
+    },
+    {
+      "id": "2",
+      "userId": "user2",
+      "password": "2resu"
+    },
+    {
+      "id": "3",
+      "userId": "admin",
+      "password": "nimda"
+    },
+    {
+      "id": "6eee",
+      "userId": "user5",
+      "password": "5resu"
+    },
+    {
+      "id": "b62d",
+      "userId": "user6",
+      "password": "6resu"
+    },
+    {
+      "id": "0e75",
+      "userId": "user7",
+      "password": "7resu"
+    },
+    {
+      "id": "f80f",
+      "userId": "userm",
+      "password": "mresu"
+    },
+    {
+      "id": "eacd",
+      "userId": "omkar",
+      "password": "rakmo"
+    },
+    {
+      "id": "d833",
+      "userId": "gokulp",
+      "password": "plukog"
+    }
+  ],
+  "resumes": [
+    {
+      "id": "1",
+      "userId": "user1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "dob": "1990-01-01",
+      "photoUrl": "data:image/jpeg;base64,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",
+      "summary": "Experienced software engineer with a focus on *JavaScript* and _Angular_ development.",
+      "qualifications": [
+        {
+          "degree": "B.Sc.",
+          "institute": "University X",
+          "year": 2010,
+          "grade": "A",
+          "remarks": "Excellent performance."
+        },
+        {
+          "degree": "bcs",
+          "institute": "University X",
+          "year": 2024,
+          "grade": "A",
+          "remarks": "Excellen"
+        }
+      ],
+      "experiences": [
+        {
+          "organization": "Company A",
+          "role": "Developer",
+          "year": 2015,
+          "remarks": "Great team."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "userId": "user2",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "dob": "1992-05-10",
+      "photoUrl": "data:image/jpeg;base64,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",
+      "summary": "Creative designer with expertise in *UI/UX* and _graphic design_.",
+      "qualifications": [
+        {
+          "degree": "engineering",
+          "institute": "mangalore",
+          "year": 2024,
+          "grade": "A",
+          "remarks": "good"
+        }
+      ],
+      "experiences": [
+        {
+          "organization": "remiges",
+          "role": "developer",
+          "year": 2024,
+          "remarks": "verygood"
+        }
+      ]
+    },
+    {
+      "id": "8357",
+      "firstName": "meghna",
+      "lastName": "saliang",
+      "dob": "2002-01-01",
+      "photoUrl": "https://img.freepik.com/premium-vector/female-user-profile-avatar-is-woman-character-screen-saver-with-emotions_505620-617.jpg",
+      "summary": "gokul",
+      "userId": "user5",
+      "qualifications": [
+        {
+          "degree": "Bca",
+          "institute": "mangalore",
+          "year": 2024,
+          "grade": "A",
+          "remarks": "good"
+        }
+      ],
+      "experiences": [
+        {
+          "organization": "remiges",
+          "role": "developer",
+          "year": 2024,
+          "remarks": "good"
+        }
+      ]
+    },
+    {
+      "id": "ad4c",
+      "firstName": "usha",
+      "lastName": "poojary",
+      "dob": "2002-01-01",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3E9H_HA2N8S1F901TNp9Eh42DRdvtB8Jk_cjG-ENUvHZvVGAIwISDxZK2id-3ghVAGU&usqp=CAU",
+      "summary": "Prabhakar",
+      "userId": "user6",
+      "qualifications": [
+        {
+          "degree": "bsc",
+          "institute": "mysore",
+          "year": 2024,
+          "grade": "A",
+          "remarks": "vergood"
+        }
+      ],
+      "experiences": [
+        {
+          "organization": "IBM",
+          "role": "Clerk",
+          "year": 2024,
+          "remarks": "Good"
+        }
+      ]
+    },
+    {
+      "id": "5580",
+      "firstName": "mukul",
+      "lastName": "poojary",
+      "dob": "2002-01-01",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2jYbl7Bq6te0iA62ktBhNRj68-tp8gSxVr2OGYtnkNedrXd_HYNd1csymAFYjIOzq-SQ&usqp=CAU",
+      "summary": "sa",
+      "userId": "user7",
+      "qualifications": [
+        {
+          "degree": "engineering",
+          "institute": "Nitte",
+          "year": 2024,
+          "grade": "A",
+          "remarks": "good"
+        },
+        {
+          "degree": "",
+          "institute": "",
+          "year": 2024,
+          "grade": "",
+          "remarks": ""
+        }
+      ],
+      "experiences": [
+        {
+          "organization": "l&t",
+          "role": "engineer",
+          "year": 2024,
+          "remarks": "A"
+        }
+      ]
+    },
+    {
+      "id": "0954",
+      "firstName": "Omkar",
+      "lastName": "remiges",
+      "dob": "2002-01-01",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLe5PABjXc17cjIMOibECLM7ppDwMmiDg6Dw&s",
+      "summary": "This is my updated resume",
+      "qualifications": [
+        {
+          "degree": "Btech",
+          "institute": "mumbai",
+          "year": 2024,
+          "grade": "A",
+          "remarks": "Good"
+        }
+      ],
+      "experience": [],
+      "experiences": [
+        {
+          "organization": "remiges",
+          "role": "developer",
+          "year": 2024,
+          "remarks": "Good"
+        }
+      ],
+      "userId": "omkar"
+    },
+    {
+      "firstName": "Gokul",
+      "lastName": "Poojary",
+      "dob": "2002-08-17",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS4lLEyi-3RqDPscyGT9u5amEsuGULno-rdA&s",
+      "summary": "This is my updated Resume.",
+      "qualifications": [
+        {
+          "degree": "BCA",
+          "institute": "Mangalore",
+          "year": 2024,
+          "grade": "A",
+          "remarks": "Good"
+        },
+        {
+          "degree": "Puc",
+          "institute": "Mangalore",
+          "year": 2024,
+          "grade": "A",
+          "remarks": "Good"
+        }
+      ],
+      "experience": [],
+      "experiences": [
+        {
+          "organization": "EventFX",
+          "role": "Desighner",
+          "year": 2024,
+          "remarks": "Good"
+        },
+        {
+          "organization": "Remiges",
+          "role": "Developer",
+          "year": 2024,
+          "remarks": "Good"
+        }
+      ],
+      "userId": "gokulp",
+      "id": "690d"
+    }
+  ]
+}
