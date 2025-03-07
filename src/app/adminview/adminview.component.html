@@ -1,0 +1,25 @@
+<div class="container">
+    <h2>All Candidate Resumes</h2>
+  
+    <table class="table">
+      <thead>
+        <tr>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Date of Birth</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let resume of resumes">
+          <td>{{ resume.firstName }}</td>
+          <td>{{ resume.lastName }}</td>
+          <td>{{ resume.dob | date: 'dd MMM yyyy' }}</td>
+          <td>
+          <button class="btn btn-info" (click)="viewResume(resume.id)">View Resume</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
